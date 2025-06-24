@@ -29,7 +29,7 @@ A proposta é visualizar de forma prática como cada item reage ao uso de `flex-
 ## 🖼️ Prévia Visual
 
 ### 📦 Propriedades do Flex em Ação
-![Preview](assets/img/preview.png)
+![Preview](/assets/img/image.png)
 
 ---
 
